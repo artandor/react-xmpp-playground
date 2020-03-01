@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-xmpp-playground/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/react-xmpp-playground/static/js/main.8f69e109.chunk.js",
+    "main.js.map": "/react-xmpp-playground/static/js/main.8f69e109.chunk.js.map",
+    "runtime-main.js": "/react-xmpp-playground/static/js/runtime-main.0dd682aa.js",
+    "runtime-main.js.map": "/react-xmpp-playground/static/js/runtime-main.0dd682aa.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/react-xmpp-playground/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.1d494a88.chunk.js": "/react-xmpp-playground/static/js/2.1d494a88.chunk.js",
+    "static/js/2.1d494a88.chunk.js.map": "/react-xmpp-playground/static/js/2.1d494a88.chunk.js.map",
+    "index.html": "/react-xmpp-playground/index.html",
+    "precache-manifest.648e10eba47d72bd66d6e7e95fb16f12.js": "/react-xmpp-playground/precache-manifest.648e10eba47d72bd66d6e7e95fb16f12.js",
+    "service-worker.js": "/react-xmpp-playground/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/react-xmpp-playground/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react-xmpp-playground/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.1d494a88.chunk.js.LICENSE.txt": "/react-xmpp-playground/static/js/2.1d494a88.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0dd682aa.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.1d494a88.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.8f69e109.chunk.js"
+  ]
+}
